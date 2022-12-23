@@ -13,7 +13,7 @@
 - 3º Grau Completo: Ciência da Computação 2011 Local: URI – Frederico Westphalen/RS Conclusão: Novembro de 2011
 <br><br>  
 - Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis Local: URI – Frederico Westphalen/RS
-<br><br>
+<br>
 Conclusão: Janeiro de 2016  
 <br><br>  
 - Pós Graduação em Gestão de TI Local: UFSM – Frederico Westphalen/RS
