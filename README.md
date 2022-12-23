@@ -9,7 +9,7 @@
 ##
 
 <font size="9px">
-<b>Profissão / Função:</b> Gerente de TI - Analista e Desenvolvedor de Sistemas
+<b>Profissão / Função:</b> Analista e Desenvolvedor de Sistemas - Gerente de TI
 <br><br>
 <b>Formação Acadêmica:</b>
 <br>
@@ -51,7 +51,7 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-##
+
 
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
