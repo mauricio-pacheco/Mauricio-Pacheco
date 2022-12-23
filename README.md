@@ -10,9 +10,13 @@
 <br><br>
 <b>Formação Acadêmica:</b>
 <br>
-- 3º Grau Completo: Ciência da Computação 2011 Local: URI – Frederico Westphalen/RS Conclusão: Novembro de 2011
+- 3º Grau Completo: Ciência da Computação 2011 
+<br>
+Local: URI – Frederico Westphalen/RS Conclusão: Novembro de 2011
 <br><br>  
-- Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis Local: URI – Frederico Westphalen/RS
+- Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
+<br>
+Local: URI – Frederico Westphalen/RS
 <br>
 Conclusão: Janeiro de 2016  
 <br><br>  
