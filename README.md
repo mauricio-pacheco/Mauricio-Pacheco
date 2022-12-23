@@ -20,7 +20,9 @@ Local: URI – Frederico Westphalen/RS
 <br>
 Conclusão: Janeiro de 2016  
 <br><br>  
-- Pós Graduação em Gestão de TI Local: UFSM – Frederico Westphalen/RS
+- Pós Graduação em Gestão de TI 
+<br>
+Local: UFSM – Frederico Westphalen/RS
 <br>
 Conclusão: Cursando (Previsão de Conclusão em 2024)
 </font>
