@@ -3,7 +3,7 @@
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&theme=react&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&theme=react&layout=compact&bg_color=00000000)
 
 
 
