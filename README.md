@@ -1,6 +1,4 @@
-### Olá, eu sou Maurício Pacheco ✌️
-
-<hr />
+## Olá, eu sou Maurício Pacheco ✌️
 
 <div align="center">
 <a href="https://github.com/mauricio-pacheco">
@@ -8,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-pacheco&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-<hr />
+##
 
 <font size="9px">
 <b>Profissão / Função:</b> Gerente de TI - Analista e Desenvolvedor de Sistemas
@@ -32,11 +30,11 @@ Local: UFSM – Frederico Westphalen/RS
 Conclusão: Cursando (Previsão de Conclusão em 2024)
 </font>
 
-<hr />
+##
 
 ### Tecnologias que uso no meu dia a dia 🌟
 
-<hr />
+##
 
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -53,7 +51,7 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-<hr />
+##
 
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
