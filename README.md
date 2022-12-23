@@ -3,6 +3,12 @@
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
+<div align="center">
+<a href="https://github.com/rafaballerini">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mauricio-Pacheco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&layout=compact&langs_count=7&theme=react"/>
+</div>
+
 <hr />
 
 <font size="9px">
@@ -26,10 +32,6 @@ Local: UFSM – Frederico Westphalen/RS
 <br>
 Conclusão: Cursando (Previsão de Conclusão em 2024)
 </font>
-
-<hr />
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&theme=react&layout=compact&langs_count=8&card_width=1000)
 
 <hr />
 
