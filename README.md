@@ -27,7 +27,7 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 
 <hr />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&theme=react&layout=compact&bg_color=00000000&langs_count=8&card_width=1000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio-Pacheco&theme=react&layout=compact&langs_count=8&card_width=1000)
 
 <hr />
 
