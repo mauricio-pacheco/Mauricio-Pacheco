@@ -34,7 +34,7 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 
 ##
 
-### Tecnologias que uso no meu dia a dia 🌟
+## Tecnologias que uso no meu dia a dia 🌟
 
 ##
 
