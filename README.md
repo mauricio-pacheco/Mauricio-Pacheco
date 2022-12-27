@@ -53,8 +53,10 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 
 ## Tecnologias estou estudando no momento 🚀
   
-![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-
+![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Blog](https://casadaweb.net/docker3.png)
+![Blog](https://casadaweb.net/vscode2.png)    
+  
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
 Sou uma pessoa estudiosa e atenta, em constante atualização com as novas tecnologias, programas e conceitos. De postura pró-ativa, aceito desafios e assumo responsabilidades. Sou sincero, honesto e sempre disposto à colaborar. Possuo grande senso profissional e procuro sempre desempenhar minha função da melhor forma possível.
