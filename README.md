@@ -51,7 +51,7 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-## Tecnologias estou estudando no momento 🚀
+## Tecnologias que estou estudando no momento 🚀
   
 ![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Blog](https://casadaweb.net/docker3.png)
