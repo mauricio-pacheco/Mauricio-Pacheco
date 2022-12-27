@@ -36,8 +36,6 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 
 ## Tecnologias que uso no meu dia a dia 🌟
 
-##
-
 ![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -53,7 +51,9 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 ![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-
+## Tecnologias estou estudando no momento 🚀
+  
+![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
 
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
