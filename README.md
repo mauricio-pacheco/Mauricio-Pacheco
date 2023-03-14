@@ -5,7 +5,7 @@
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mauricio-pacheco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mauricio-pacheco&layout=compact&langs_count=18&theme=react"/>
 </div>
-
+  
 ##
 
 <font size="9px">
@@ -61,6 +61,6 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
 Sou uma pessoa estudiosa e atenta, em constante atualização com as novas tecnologias, programas e conceitos. De postura pró-ativa, aceito desafios e assumo responsabilidades. Sou sincero, honesto e sempre disposto à colaborar. Possuo grande senso profissional e procuro sempre desempenhar minha função da melhor forma possível.
-  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/formandodev/count.svg"><p>
+
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/formandodev/count.svg"><p>  
   
