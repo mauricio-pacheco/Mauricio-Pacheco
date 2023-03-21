@@ -9,7 +9,7 @@
 ##
 
 <font size="9px">
-<b>Profissão / Função:</b> Analista e Desenvolvedor de Sistemas - Gerente de TI
+<b>Profissão / Função:</b> Analista e Desenvolvedor de Sistemas - FullStack
 <br><br>
 <b>Formação Acadêmica:</b>
 <br>
