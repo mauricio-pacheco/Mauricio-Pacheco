@@ -13,7 +13,7 @@
 <br><br>
 <b>Formação Acadêmica:</b>
 <br>
-- 3º Grau Completo: Ciência da Computação 2011 
+- Graduação: Ciência da Computação 2011 
 <br>
 Local: URI – Frederico Westphalen/RS 
 <br>
@@ -31,6 +31,14 @@ Local: UFSM – Frederico Westphalen/RS
 <br>
 Conclusão: Cursando (Previsão de Conclusão em 2024)
 </font>
+<br><br>    
+- Graduação Programador FullStack 
+<br>
+Local: FIERGS – Panambi/RS
+<br>
+Conclusão: Cursando (Previsão de Conclusão em 2024)
+</font>  
+  
 
 ##
 
