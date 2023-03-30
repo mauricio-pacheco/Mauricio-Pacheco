@@ -69,5 +69,3 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
 Sou uma pessoa estudiosa e atenta, em constante atualização com as novas tecnologias, programas e conceitos. De postura pró-ativa, aceito desafios e assumo responsabilidades. Sou sincero, honesto e sempre disposto à colaborar. Possuo grande senso profissional e procuro sempre desempenhar minha função da melhor forma possível.
-  
-<p align="right"><img align="center" src="https://profile-counter.glitch.me/formandodev/count.svg"><p> 
