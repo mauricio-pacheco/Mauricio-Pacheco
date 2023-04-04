@@ -32,7 +32,7 @@ Local: UFSM – Frederico Westphalen/RS
 Conclusão: Cursando (Previsão de Conclusão em 2024)
 </font>
 <br><br>    
-- Graduação Programador FullStack 
+- Curso SENAI Programador FullStack 
 <br>
 Local: FIERGS – Panambi/RS
 <br>
