@@ -72,10 +72,6 @@ https://github.com/mauricio-pacheco/e-Bella
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Blog](https://casadaweb.net/imagens_git/docker3.png)
 
-Projeto em Andamento
-
-<a href="http://186.209.138.201:28000" target="_blank">Casa da Web</a>
-
 Trabalho como Analista e Desenvolvedor de Sistemas a 18 anos. 
 <br>  
 Sou uma pessoa estudiosa e atenta, em constante atualização com as novas tecnologias, programas e conceitos. De postura pró-ativa, aceito desafios e assumo responsabilidades. Sou sincero, honesto e sempre disposto à colaborar. Possuo grande senso profissional e procuro sempre desempenhar minha função da melhor forma possível.
