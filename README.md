@@ -37,6 +37,12 @@ Conclusão: Cursando (Previsão de Conclusão em 2024)
 Local: FIERGS – Panambi/RS
 <br>
 Conclusão: Cursando (Previsão de Conclusão em 2024)
+<br><br>    
+- Mestrado em Direção Estratégica em Engenharia de Software
+<br>
+Local: FUNIBER – Florianópolis/SC
+<br>
+Conclusão: Cursando (Previsão de Conclusão em 2026)
 </font>  
   
 
