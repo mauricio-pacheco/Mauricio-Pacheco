@@ -71,7 +71,7 @@ Conclusão: Cursando (Previsão de Conclusão em Maio 2024)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ## Tecnologias que estou estudando no momento 🚀
-![Blog](https://casadaweb.net/imagens_git/docker3.png)
+![Blog](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 Trabalho como Analista e Desenvolvedor de Sistemas a 20 anos. 
