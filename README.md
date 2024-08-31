@@ -1,9 +1,9 @@
 ## Olá, eu sou Maurício Pacheco ✌️
 
 <div align="center">
-<a href="https://github.com/mauricio-pacheco">
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mauricio-pacheco&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=mauricio-pacheco&layout=compact&langs_count=18&theme=react"/>
+  <a href="https://github.com/mauricio-pacheco">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-pacheco&layout=compact&langs_count=18&theme=react&hide_border=true&card_width=1000" alt="Linguagens mais usadas por Mauricio Pacheco" style="width: 100%; max-width: 1000px;"/>
+  </a>
 </div>
   
 ##
