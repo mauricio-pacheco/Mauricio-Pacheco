@@ -29,7 +29,7 @@ Conclusão: Janeiro de 2016
 <br>
 Local: UFSM – Frederico Westphalen/RS
 <br>
-Conclusão: Cursando (Previsão de Conclusão em 2024)
+Conclusão: Julho de 2024
 </font>
 <br><br>    
 - Curso SENAI Programador FullStack 
@@ -42,7 +42,7 @@ Conclusão: Março de 2024
 <br>
 Local: FUNIBER – Florianópolis/SC
 <br>
-Conclusão: Cursando (Previsão de Conclusão em Maio 2024)
+Conclusão: Agosto de 2024
 </font>  
   
 
