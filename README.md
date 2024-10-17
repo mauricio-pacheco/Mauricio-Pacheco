@@ -41,7 +41,7 @@ Conclusão: Agosto de 2024
 
 ##
 
-Cursos
+<b>Cursos</b>
 
 Curso SENAI Programador FullStack 
 <br>
