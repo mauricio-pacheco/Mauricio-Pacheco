@@ -72,6 +72,7 @@ Conclusão: Agosto de 2024
 
 ## Tecnologias que estou estudando no momento 🚀
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
 Trabalho como Analista e Desenvolvedor de Sistemas a 20 anos. 
