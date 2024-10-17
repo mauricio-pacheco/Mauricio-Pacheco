@@ -12,39 +12,42 @@
 <b>Profissão / Função:</b> Analista e Desenvolvedor de Sistemas - FullStack
 <br><br>
 <b>Formação Acadêmica:</b>
-<br>
-- Graduação: Ciência da Computação 2011 
+<br><br>
+Graduação: Ciência da Computação 2011 
 <br>
 Local: URI – Frederico Westphalen/RS 
 <br>
 Conclusão: Novembro de 2011
 <br><br>  
-- Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
+Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
 <br>
 Local: URI – Frederico Westphalen/RS
 <br>
 Conclusão: Janeiro de 2016  
 <br><br>  
-- Pós Graduação em Gestão de TI 
+Pós Graduação em Gestão de TI 
 <br>
 Local: UFSM – Frederico Westphalen/RS
 <br>
 Conclusão: Julho de 2024
 </font>
 <br><br>    
-- Curso SENAI Programador FullStack 
+Mestrado em Direção Estratégica em Engenharia de Software
+<br>
+Local: Universidad Europea del Atlántico
+<br>
+Conclusão: Agosto de 2024
+</font>  
+
+##
+
+Cursos
+
+Curso SENAI Programador FullStack 
 <br>
 Local: FIERGS – Panambi/RS
 <br>
 Conclusão: Março de 2024
-<br><br>    
-- Mestrado em Direção Estratégica em Engenharia de Software
-<br>
-Local: FUNIBER – Florianópolis/SC
-<br>
-Conclusão: Agosto de 2024
-</font>  
-  
 
 ##
 
