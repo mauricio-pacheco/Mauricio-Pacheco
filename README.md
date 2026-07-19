@@ -1,80 +1,224 @@
-## Olá, eu sou Maurício Pacheco ✌️
+<h1 align="center">Olá, eu sou Maurício Pacheco 👋</h1>
 
-<div align="center">
-  <a href="https://github.com/mauricio-pacheco">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mauricio-pacheco&layout=compact&langs_count=18&theme=react&hide_border=true&card_width=1000" alt="Linguagens mais usadas por Mauricio Pacheco" style="width: 100%; max-width: 1000px;"/>
-  </a>
-</div>
-  
-##
+<h3 align="center">
+Analista e Desenvolvedor de Sistemas • Full Stack • PHP • Laravel • Vue.js • Node.js
+</h3>
 
-<font size="9px">
-<b>Profissão / Função:</b> Analista e Desenvolvedor de Sistemas - FullStack
-<br><br>
-<b>Formação Acadêmica:</b>
-<br><br>
-Graduação: Ciência da Computação 2011 
-<br>
-Local: URI – Frederico Westphalen/RS 
-<br>
-Conclusão: Novembro de 2011
-<br><br>  
-Pós Graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
-<br>
-Local: URI – Frederico Westphalen/RS
-<br>
-Conclusão: Janeiro de 2016  
-<br><br>  
-Pós Graduação em Gestão de TI 
-<br>
-Local: UFSM – Frederico Westphalen/RS
-<br>
-Conclusão: Julho de 2024
-</font>
-<br><br>    
-Mestrado em Direção Estratégica em Engenharia de Software
-<br>
-Local: Universidad Europea del Atlántico
-<br>
+<p align="center">
+  Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvolvimento de sistemas web, APIs, bancos de dados, servidores e integração de sistemas.
+</p>
+
+<p align="center">
+
+<a href="https://github.com/mauricio-pacheco">
+  <img src="https://img.shields.io/badge/GitHub-mauricio--pacheco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maur%C3%ADcio-pacheco-6a2419264/">
+  <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+<a href="mailto:mauricio@casadaweb.net">
+  <img src="https://img.shields.io/badge/E--mail-mauricio@casadaweb.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://wa.me/5555997012375">
+  <img src="https://img.shields.io/badge/WhatsApp-(55)%2099701--2375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 1"/>
+</a>
+
+<a href="https://wa.me/5555996962818">
+  <img src="https://img.shields.io/badge/WhatsApp-(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 2"/>
+</a>
+
+<a href="http://casadaweb.net/arquivos/vitae--2026.pdf">
+  <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo em PDF"/>
+</a>
+
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
+
+Sou Desenvolvedor PHP Full Stack Sênior com mais de 23 anos de experiência na construção de soluções web robustas, escaláveis e de alta performance.
+
+Minha experiência abrange desenvolvimento front-end e back-end, criação e integração de APIs REST, administração de bancos de dados, instalação de servidores Linux e Windows, sustentação de sistemas e modernização de aplicações legadas.
+
+Também possuo experiência com liderança técnica, orientação de desenvolvedores plenos e juniores, planejamento de projetos, análise de sistemas e entrega de soluções alinhadas às necessidades do negócio.
+
+---
+
+## 💼 Atuação profissional
+
+- Desenvolvimento de sistemas web e APIs
+- Desenvolvimento front-end e back-end
+- Sustentação e modernização de sistemas legados
+- Integração entre sistemas e bancos de dados
+- Instalação e configuração de servidores
+- Análise e modelagem de sistemas
+- Liderança técnica e mentoria de equipes
+- Integração com APIs REST
+- Desenvolvimento de sistemas desktop, web e mobile
+
+---
+
+## 🚀 Tecnologias que uso
+
+### Front-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,javascript,jquery,vue,react,nextjs" alt="Tecnologias Front-end"/>
+</p>
+
+### Back-end
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,java" alt="Tecnologias Back-end"/>
+</p>
+
+### Bancos de dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" alt="MySQL e PostgreSQL"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Firebird-EE4000?style=for-the-badge&logo=database&logoColor=white" alt="Firebird"/>
+</p>
+
+### DevOps, sistemas e ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,windows,vscode" alt="Ferramentas e sistemas"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/WordPress-117AC9?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="API REST"/>
+</p>
+
+---
+
+## 📚 Tecnologias que estou estudando
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,react,nextjs" alt="Tecnologias em estudo"/>
+</p>
+
+---
+
+## 🎓 Formação acadêmica
+
+### Mestrado em Direção Estratégica em Engenharia de Software
+
+Universidad Europea del Atlántico  
 Conclusão: Agosto de 2024
-</font>  
 
-##
+### Pós-graduação em Gestão de TI
 
-<b>Cursos</b>
+UFSM – Frederico Westphalen/RS  
+Conclusão: Julho de 2024
 
-Curso SENAI Programador FullStack 
-<br>
-Local: FIERGS – Panambi/RS
-<br>
+### Pós-graduação em Desenvolvimento de Aplicações para Dispositivos Móveis
+
+URI – Frederico Westphalen/RS  
+Conclusão: Janeiro de 2016
+
+### Graduação em Ciência da Computação
+
+URI – Frederico Westphalen/RS  
+Conclusão: Novembro de 2011
+
+---
+
+## 📖 Cursos
+
+### Programador Full Stack
+
+SENAI / FIERGS – Panambi/RS  
 Conclusão: Março de 2024
 
-##
+---
 
-## Tecnologias que uso no meu dia a dia 🌟
+## 📊 Estatísticas do GitHub
 
-![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Blog](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Blog](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Blog](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Blog](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Blog](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-![Blog](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Blog](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white)
-![Blog](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Blog](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Blog](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Blog](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Blog](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Blog](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Blog](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) 
-![Blog](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Blog](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mauricio-pacheco&theme=github_dark" alt="Detalhes do perfil no GitHub"/>
+</p>
 
-## Tecnologias que estou estudando no momento 🚀
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mauricio-pacheco&theme=github_dark" alt="Repositórios por linguagem"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mauricio-pacheco&theme=github_dark" alt="Linguagens com mais commits"/>
+</p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mauricio-pacheco&theme=github_dark" alt="Estatísticas do GitHub"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mauricio-pacheco&theme=github_dark&utcOffset=-3" alt="Horários produtivos"/>
+</p>
 
+---
+
+## 📂 Principais projetos
+
+### Projetos PHP
+
+[github.com/mauricio-pacheco/Projetos-PHP](https://github.com/mauricio-pacheco/Projetos-PHP)
+
+### Projetos ASP
+
+[github.com/mauricio-pacheco/Projetos-ASP](https://github.com/mauricio-pacheco/Projetos-ASP)
+
+### Sistema e-Bella
+
+Sistema web e mobile integrado ao ERP da empresa.
+
+[github.com/mauricio-pacheco/e-Bella](https://github.com/mauricio-pacheco/e-Bella)
+
+---
+
+## 📫 Contato
+
+<p align="center">
+
+<a href="mailto:mauricio@casadaweb.net">
+  <img src="https://img.shields.io/badge/E--mail-mauricio@casadaweb.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+</a>
+
+<a href="https://www.linkedin.com/in/maur%C3%ADcio-pacheco-6a2419264/">
+  <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://wa.me/5555997012375">
+  <img src="https://img.shields.io/badge/WhatsApp-(55)%2099701--2375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 1"/>
+</a>
+
+<a href="https://wa.me/5555996962818">
+  <img src="https://img.shields.io/badge/WhatsApp-(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp 2"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="http://casadaweb.net/arquivos/vitae--2026.pdf">
+  <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo completo em PDF"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <strong>Obrigado pela visita ao meu perfil!</strong>
+</p>
