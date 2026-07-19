@@ -10,15 +10,15 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 
 <p align="center">
 
-<a href="https://github.com/mauricio-pacheco">
+<a href="https://github.com/mauricio-pacheco" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/GitHub-mauricio--pacheco-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mauricio--pacheco/">
+<a href="https://www.linkedin.com/in/mauricio--pacheco/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
-<a href="mailto:mauricio@casadaweb.net">
+<a href="mailto:mauricio@casadaweb.net" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/E--mail-mauricio@casadaweb.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
@@ -26,11 +26,11 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 
 <p align="center">
 
-<a href="https://wa.me/5555997012375">
+<a href="https://wa.me/5555997012375" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099701--2375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99701-2375"/>
 </a>
 
-<a href="https://wa.me/5555996962818">
+<a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
 </a>
 
@@ -38,7 +38,7 @@ Desenvolvedor Full Stack Sênior com mais de 23 anos de experiência em desenvol
 
 <p align="center">
 
-<a href="http://casadaweb.net/arquivos/vitae--2026.pdf">
+<a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo em PDF"/>
 </a>
 
@@ -173,17 +173,23 @@ Conclusão: Março de 2024
 
 ### Projetos PHP
 
-[github.com/mauricio-pacheco/Projetos-PHP](https://github.com/mauricio-pacheco/Projetos-PHP)
+<a href="https://github.com/mauricio-pacheco/Projetos-PHP" target="_blank" rel="noopener noreferrer">
+  github.com/mauricio-pacheco/Projetos-PHP
+</a>
 
 ### Projetos ASP
 
-[github.com/mauricio-pacheco/Projetos-ASP](https://github.com/mauricio-pacheco/Projetos-ASP)
+<a href="https://github.com/mauricio-pacheco/Projetos-ASP" target="_blank" rel="noopener noreferrer">
+  github.com/mauricio-pacheco/Projetos-ASP
+</a>
 
 ### Sistema e-Bella
 
 Sistema web e mobile integrado ao ERP da empresa.
 
-[github.com/mauricio-pacheco/e-Bella](https://github.com/mauricio-pacheco/e-Bella)
+<a href="https://github.com/mauricio-pacheco/e-Bella" target="_blank" rel="noopener noreferrer">
+  github.com/mauricio-pacheco/e-Bella
+</a>
 
 ---
 
@@ -191,11 +197,11 @@ Sistema web e mobile integrado ao ERP da empresa.
 
 <p align="center">
 
-<a href="mailto:mauricio@casadaweb.net">
+<a href="mailto:mauricio@casadaweb.net" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/E--mail-mauricio@casadaweb.net-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
 </a>
 
-<a href="https://www.linkedin.com/in/mauricio--pacheco/">
+<a href="https://www.linkedin.com/in/mauricio--pacheco/" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/LinkedIn-Maurício%20Pacheco-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
@@ -203,11 +209,11 @@ Sistema web e mobile integrado ao ERP da empresa.
 
 <p align="center">
 
-<a href="https://wa.me/5555997012375">
+<a href="https://wa.me/5555997012375" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099701--2375-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99701-2375"/>
 </a>
 
-<a href="https://wa.me/5555996962818">
+<a href="https://wa.me/5555996962818" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/WhatsApp-%2B55%20(55)%2099696--2818-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp +55 (55) 99696-2818"/>
 </a>
 
@@ -215,7 +221,7 @@ Sistema web e mobile integrado ao ERP da empresa.
 
 <p align="center">
 
-<a href="http://casadaweb.net/arquivos/vitae--2026.pdf">
+<a href="https://casadaweb.net/arquivos/vitaeMP2026.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/Baixar%20Currículo%20Completo-PDF-EC1C24?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo completo em PDF"/>
 </a>
 
